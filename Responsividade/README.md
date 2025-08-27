@@ -1,6 +1,6 @@
 # Responsividade com CSS
 
-## Hibilidades utilizadas
+## Habilidades utilizadas
 - HMTL
 - CSS
 
